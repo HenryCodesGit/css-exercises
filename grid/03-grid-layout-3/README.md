@@ -21,11 +21,11 @@ If you use the tools in the Advanced Grid Properties lesson you should be able t
 o The container element has two columns
 o The container's second column is 4 times larger than the first column
 o The container element has a gap of 4px
-- The header element has two columns
-- The `ul` inside the menu element contains another grid
-- The `ul` inside the nav element contains another grid
-- The sidebar element has a gap of 50px
-- The text elements in the sidebar are centered with grid
+o The header element has two columns
+o The `ul` inside the menu element contains another grid
+o The `ul` inside the nav element contains another grid
+o The sidebar element has a gap of 50px
+o The text elements in the sidebar are centered with grid
 - The article element should set grid columns using `repeat` along with the `auto-fit` and `minmax` properties
 - The article columns should have a minimum value of 250px and a maximum of 1fr unit
 - The article element has a gap of 15px
